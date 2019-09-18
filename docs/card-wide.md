@@ -1,7 +1,7 @@
 # Card-wide
 
-Document Status: complete
-Group: https://www.notion.so/1f146c9652034abc8790f1e07c643b9c
+Group: Card Components
+
 Pattern Type: component
 
 ---
