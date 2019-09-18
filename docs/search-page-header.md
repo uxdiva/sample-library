@@ -1,6 +1,7 @@
 # Search Page Header
 
 Group: Search Components
+
 Pattern Type: component
 
 ## Overview of Component Group
