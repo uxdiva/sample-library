@@ -24,5 +24,4 @@ OnClick/OnTap of link system displays target page
 - Url
 
 
-<iframe height="300" style="width: 100%;" scrolling="true" title="feature-image" src="//codepen.io/wcmsn/embed/voNMdr/?height=265&theme-id=0&default-tab=html,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href='https://codepen.io/wcmsn/pen/pXYOKj/'></iframe>
+<iframe height="300" style="width: 100%;" scrolling="true" title="feature-image" src="//codepen.io/wcmsn/pen/pXYOKj/?height=265&theme-id=0&default-tab=html,result" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>
