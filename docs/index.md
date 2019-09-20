@@ -29,6 +29,3 @@ These took less than 5 minutes to up date for Github use
 [Card Wide](https://uxdiva.github.io/sample-library/card-wide)
 
 [Search Page Header](https://uxdiva.github.io/sample-library/search-page-header)
-
-# My Cool Change
-Today
