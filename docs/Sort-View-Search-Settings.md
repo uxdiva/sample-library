@@ -1,15 +1,13 @@
 # Sort & View Search Settings
 
-Document Status: ready for review
-Group: https://www.notion.so/e88b3af96b6343a2b9a34a0e7221f33b
+Group: search
 Pattern Type: component
-assigned to: Dara Pressley
 
 ## Overview of component
 
 ---
 
-Sort by and View are the settings for how search is viewed on the page. 
+Sort by and View are the settings for how search is viewed on the page.
 
 On Page load:
 
@@ -20,7 +18,7 @@ On Page load:
 
 ---
 
-![](search_header_-_settings-87820f6b-c3d8-4a47-b329-0122de6be4a9.png)
+![](images/search_header_-_settings.png)
 
 ### Functionality
 
