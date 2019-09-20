@@ -3,4 +3,4 @@ title: Sample Pattern Library
 description: Showing migration from Notion to Github
 
 # Markdown parser and theme settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-time-machine
