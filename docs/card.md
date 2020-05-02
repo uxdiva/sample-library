@@ -22,4 +22,4 @@ Cards are made up of primary pieces which may be omitted depending on the contex
 
 ## Card Layouts
 
-[Card Wide](ttps://uxdiva.github.io/sample-library/card-wide)
+[Card Wide](https://uxdiva.github.io/sample-library/card-wide)
